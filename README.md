@@ -1,2 +1,2 @@
-# exercices-python
-L'entièreté des exercices que j'ai réalisé avec python, que ce soit de moi même ou en suivant le cours du site Hello Classroom.
+### Floutage de visages
+Programme de flou de visages en temps réel à partir de la webcam, réalisé à l'aide à l'aide de plusieurs ressources variées, notamment de tutoriels YouTube sur le module "OpenCV"
